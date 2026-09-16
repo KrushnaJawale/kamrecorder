@@ -4,30 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Kam Recorder | Documentation</title>
-<style>
-:root { --bg: #ffffff; --panel: #ffffff; --panel-soft: #f5f7f9; --line: #d9dee5; --text: #172333; --muted: #526274; --accent: #087ea4; --green: #176b45; --warning: #a76500; }
-* { box-sizing: border-box; }
-body { margin: 0; padding: 28px 18px 48px; background: var(--bg); color: var(--text); font: 15px/1.6 "Segoe UI", Tahoma, sans-serif; }
-.docs { width: min(760px, 100%); margin: 0 auto; }
-.hero, section { background: var(--panel); border-bottom: 1px solid var(--line); padding: 24px 0; }
-.hero { padding-top: 8px; }
-section { margin-top: 0; }
-h1 { margin: 0 0 8px; font-size: 34px; line-height: 1.15; }
-h2 { margin: 0 0 12px; color: var(--text); font-size: 21px; }
-h3 { margin: 20px 0 6px; color: var(--text); font-size: 16px; }
-p, li { color: var(--muted); }
-a { color: var(--accent); }
-strong { color: var(--text); }
-.tagline { font-size: 17px; max-width: 720px; }
-.links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
-.links a, .back { display: inline-block; padding: 6px 10px; border: 1px solid var(--line); text-decoration: none; background: var(--panel-soft); }
-.grid { display: block; }
-.code { margin: 10px 0; padding: 11px 13px; overflow-x: auto; background: var(--panel-soft); border: 1px solid var(--line); color: var(--green); font: 14px/1.5 Consolas, "Courier New", monospace; white-space: pre-wrap; }
-.notice { padding: 15px 17px; border-left: 3px solid var(--warning); background: #fff8e8; }
-.warning { padding: 16px 18px; border: 1px solid #e3bd72; border-radius: 8px; background: #fff8e8; }
-footer { margin-top: 22px; color: var(--muted); font-size: 13px; }
-@media (max-width: 650px) { body { padding: 18px 14px 36px; } .hero, section { padding: 20px 0; } h1 { font-size: 29px; } }
-</style>
+
 </head>
 <body>
 <main class="docs">
